@@ -1,6 +1,6 @@
 # Strands Telegram Listener
 
-[![PyPI version](https://badge.fury.io/py/strands-telegram-listener.svg)](https://badge.fury.io/py/strands-telegram-listener)
+[![PyPI version](https://img.shields.io/pypi/v/strands-telegram-listener.svg)](https://pypi.org/project/strands-telegram-listener/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Real-time Telegram message processing with AI-powered responses for Strands Agents**
