@@ -369,7 +369,7 @@ Contributions are welcome! Please feel free to submit issues, feature requests, 
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/strands-telegram-listener
+git clone https://github.com/eraykeskinmac/strands-telegram-listener
 cd strands-telegram-listener
 pip install -e ".[dev]"
 ```
@@ -416,7 +416,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Strands Agents Documentation](https://strandsagents.com)
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 - [PyPI Package](https://pypi.org/project/strands-telegram-listener/)
-- [GitHub Repository](https://github.com/yourusername/strands-telegram-listener)
+- [GitHub Repository](https://github.com/eraykeskinmac/strands-telegram-listener)
 
 ## 📞 Support
 
